@@ -84,3 +84,7 @@ text-align: center;
      background-color: fuchsia;
      bottom: 0px;
  }
+p {
+ border-left: 3px solid blue;
+ border-bottom: 3px solid yellow;
+}
