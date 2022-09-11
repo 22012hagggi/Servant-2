@@ -11,6 +11,8 @@ h1 {
 body {
     text-align: center;
     flex-wrap: wrap;
+   padding-left: 30px;
+padding-right: 30px ;
 }
 p {
     font-size: 20px;
@@ -85,8 +87,8 @@ text-align: center;
      bottom: 0px;
  }
  .ww {
-    border-left: 9px solid rgb(0, 4, 255);
+    border-left: 12px solid rgb(0, 4, 255);
     padding-left: 35px;
-       border-bottom: 9px solid rgb(187, 255, 0);
+       border-bottom: 12px solid rgb(187, 255, 0);
        cursor: copy;
  }
