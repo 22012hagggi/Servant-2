@@ -84,7 +84,9 @@ text-align: center;
      background-color: fuchsia;
      bottom: 0px;
  }
-p {
- border-left: 3px solid blue;
- border-bottom: 3px solid yellow;
-}
+ .ww {
+    border-left: 9px solid rgb(0, 4, 255);
+    padding-left: 35px;
+       border-bottom: 9px solid rgb(187, 255, 0);
+       cursor: copy;
+ }
